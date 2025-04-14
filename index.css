@@ -55,3 +55,7 @@ a {
     gap: .5rem;
     display:flex;
 }
+
+hr {
+    line-height: 0.7;
+}
