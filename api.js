@@ -3,7 +3,10 @@ function refreshIframe() {
   ifr.src = ifr.src;
 }
 
-
+function refreshIframe_calc() {
+  var ifr_calc = document.getElementsByid('calc')[0];
+  ifr_calc.src = ifr_calc.src;
+}
 
 
 function refresh() {
